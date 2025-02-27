@@ -1,0 +1,4 @@
+#ifndef SELECTWIDGET_H
+#define SELECTWIDGET_H
+
+#endif // SELECTWIDGET_H

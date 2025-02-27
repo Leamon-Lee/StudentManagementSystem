@@ -1,0 +1,4 @@
+#ifndef MODIFYWIDGET_H
+#define MODIFYWIDGET_H
+
+#endif // MODIFYWIDGET_H
